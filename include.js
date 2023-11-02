@@ -2854,6 +2854,13 @@ let cards = [
     author: 'daniel-badura',
     githubLink: 'https://github.com/daniel-badura'
   }
+  {
+  artName: 'Cards',
+  pageLink: './Art/IsIDeveloper/Index.html',
+  imageLink: './Art/IsIDeveloper/card.gif',
+  author: 'Israar Sabar',
+  githubLink: 'https://github.com/IsIDeveloper'
+}
 ];
 
 /* -------------------------------------------------------------------------- */
